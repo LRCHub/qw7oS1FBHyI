@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Never Grow Up",
+  "base_artist": "ちゃんみな",
+  "createdAt": "2026-01-07T11:26:47.408676Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'll Never Grow Up, Now!",
+      "artist": "Twisted Sister",
+      "has_synced": false,
+      "path": "select/01_I'll_Never_Grow_Up,_Now!_Twisted_Sister.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'll Never Grow Up Now!",
+      "artist": "Twisted Sister",
+      "has_synced": false,
+      "path": "select/02_I'll_Never_Grow_Up_Now!_Twisted_Sister.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Never Grow Up",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/03_Never_Grow_Up_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Never Grow Up",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/04_Never_Grow_Up_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'll Never Grow Up, Now! (2016 Remaster)",
+      "artist": "Twisted Sister",
+      "has_synced": false,
+      "path": "select/05_I'll_Never_Grow_Up,_Now!_(2016_Remaster)_Twisted_Sister.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Never Grow Up",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/06_Never_Grow_Up_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Never Grow Up",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/07_Never_Grow_Up_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Never Grow Up",
+      "artist": "Deez Nuts",
+      "has_synced": false,
+      "path": "select/08_Never_Grow_Up_Deez_Nuts.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Never Grow Up",
+      "artist": "ちゃんみな",
+      "has_synced": false,
+      "path": "select/pl_01_Never_Grow_Up_ちゃんみな.txt"
+    }
+  ]
+}
